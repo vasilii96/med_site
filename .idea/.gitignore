@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../med_site\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Python\work_vasilii\django_progect\med_site\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
